@@ -1,0 +1,7 @@
+Nome, Idade, Curso
+Bira, 21, Ciência da Computação
+Haru, 25, Biomedicina
+Toty, 20, Análise e Desenvolvimento de Sistemas
+Sarah, 21, Direito
+Fernanda, 21, Biologia
+Victoria, 21, Psicologia
